@@ -1,0 +1,24 @@
+h1{                                           
+    color: rgb(255, 0, 0);
+}
+p{
+    color: crimson;
+}
+body{
+     background-color:rgb(8, 77, 77);
+}
+h2{
+    color: chartreuse;
+}
+h3{
+    color: aqua;
+}
+h4{
+    color: cornsilk;
+}
+h5{
+    color: cornflowerblue;
+}
+h6{
+    color: rgb(236, 197, 224);
+}
